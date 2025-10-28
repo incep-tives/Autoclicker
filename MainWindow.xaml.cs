@@ -399,7 +399,7 @@ public partial class MainWindow : Window
     
     private void About_Click(object sender, RoutedEventArgs e)
     {
-        MessageBox.Show("An autoclicker", "About AutoClicker", MessageBoxButton.OK, MessageBoxImage.Information);
+        MessageBox.Show("An autoclicker by inceptives/Noc", "About AutoClicker", MessageBoxButton.OK, MessageBoxImage.Information);
     }
     
     // Theme Management

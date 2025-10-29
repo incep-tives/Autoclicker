@@ -18,3 +18,4 @@ C:\Users\sarta\RiderProjects\Autoclicker\Autoclicker\obj\Debug\net8.0-windows\re
 C:\Users\sarta\RiderProjects\Autoclicker\Autoclicker\obj\Debug\net8.0-windows\Autoclicker.pdb
 C:\Users\sarta\RiderProjects\Autoclicker\Autoclicker\obj\Debug\net8.0-windows\Autoclicker.genruntimeconfig.cache
 C:\Users\sarta\RiderProjects\Autoclicker\Autoclicker\obj\Debug\net8.0-windows\ref\Autoclicker.dll
+C:\Users\sarta\RiderProjects\Autoclicker\Autoclicker\obj\Debug\net8.0-windows\Autoclicker.sourcelink.json
